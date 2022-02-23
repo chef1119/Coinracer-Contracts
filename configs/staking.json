@@ -1,0 +1,32 @@
+{
+    "staking_param": {
+        "fund": "1000000000000000000000000",
+        "pool": [
+            {
+                "lockTime": 0,
+                "apy": 10,
+                "withdrawFee": 0
+            },
+            {
+                "lockTime": 2592000,
+                "apy": 20,
+                "withdrawFee": 20
+            },
+            {
+                "lockTime": 7884000,
+                "apy": 30,
+                "withdrawFee": 25
+            },
+            {
+                "lockTime": 15768000,
+                "apy": 40,
+                "withdrawFee": 30
+            },
+            {
+                "lockTime": 31536000,
+                "apy": 60,
+                "withdrawFee": 35
+            }
+        ]
+    }
+}
